@@ -3,8 +3,8 @@ var schema = {
   properties: {
     datasets: {
       type: "array",
-      minItems: 15,
-      maxItems: 35,
+      minItems: 70,
+      maxItems: 75,
       items: {
         type: "object",
         properties: {
